@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="11Labs GitHub Banner.png" alt="Jenn Kunrath Custom AI Voice Banner" width="50%" />
+</p>
+
 # 🎙️ Jenn Kunrath – Custom AI Voice Profile
 
 Welcome to my professional voice profile, built using **3+ hours of high-fidelity, studio-quality voiceover recordings**. This repository showcases the resulting voice, created with the **ElevenLabs Professional Voice Cloning** process.
