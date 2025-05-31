@@ -52,4 +52,8 @@ I'm Jenn Kunrath – a Solution Engineer with 12+ years in tech, a published aut
 
 This voice profile is for demonstration and professional portfolio use only.  
 All original audio used for training was recorded by me and is rights-cleared.  
-For commercial licensing or collaboration inquiries, please DM.
+
+## 🛠️ How to Use
+
+This repo is for portfolio purposes only. If you'd like to collaborate, license the voice for a project, or see integration examples using the ElevenLabs API, feel free to reach out.
+
