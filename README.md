@@ -43,7 +43,7 @@ This repository is intended to:
 I'm Jenn Kunrath – a Solution Engineer with 12+ years in tech, a published author, and a professional voiceover artist since 2013. I love combining **tech, language, and story** to build resonant, user-focused experiences.
 
 - 🌐 [Website](https://www.jennkunrath.com)  
-- 🎧 [Voiceover Portfolio](https://www.jennkunrath.com/voiceover#h.ehhwdxoblgge)  
+- 🎧 [Voiceover Demo Reel](https://www.jennkunrath.com/voiceover#h.ehhwdxoblgge)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jennkunrath)
 
 ---
